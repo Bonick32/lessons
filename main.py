@@ -8,10 +8,6 @@ print(9.99 > 9.98 and 1000 != 1000.1)
 
 # 3rd program
 print('task 3: 2*2+2 = 2*(2+2)?')
-print((2*2+2) == (2*(2+2)))
-
-# 3rd program
-print('task 3: 2*2+2 = 2*(2+2)?')
 print(2*2+2)
 print(2*(2+2))
 print((2*2+2) == (2*(2+2)))
